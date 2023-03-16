@@ -1,0 +1,124 @@
+
+[
+    {
+        "id": 1,
+        "type": "ChildrenRoom",
+        "title": "Забавные зверята",
+        "subtitle": "наклейка на стену",
+        "price": "35Br",
+        "productImage": "ЗабавныеЗверята"
+    },
+    {
+        "id": 2,
+        "type": "ChildrenRoom",
+        "title": "Калейдоскоп",
+        "subtitle": "наклейка на стену",
+        "price": "30Br",
+        "productImage": "Калейдоскоп"
+    },
+    {
+        "id": 3,
+        "type": "ChildrenRoom",
+        "title": "Among Us",
+        "subtitle": "наклейка на стену",
+        "price": "50Br",
+        "productImage": "AmongUs"
+    },
+    {
+        "id": 4,
+        "type": "Stikers",
+        "title": "Облака",
+        "subtitle": "наклейка на стену",
+        "price": "40Br",
+        "productImage": "Облака"
+    },
+    {
+        "id": 5,
+        "type": "Stikers",
+        "title": "Акварельные кружочки",
+        "subtitle": "наклейка на стену",
+        "price": "25Br",
+        "productImage": "АкварельныеКружочки"
+    },
+    {
+        "id": 6,
+        "type": "Stikers",
+        "title": "Сердечки",
+        "subtitle": "наклейка на стену",
+        "price": "30Br",
+        "productImage": "Сердечки"
+    },
+    {
+        "id": 7,
+        "type": "Stikers",
+        "title": "Ромашки",
+        "subtitle": "наклейка на стену",
+        "price": "55Br",
+        "productImage": "Ромашки"
+    },
+    {
+        "id": 8,
+        "type": "Flowers",
+        "title": "Тюльпаны",
+        "subtitle": "наклейка на стену",
+        "price": "40Br",
+        "productImage": "Тюльпаны"
+    },
+    {
+        "id": 9,
+        "type": "Flowers",
+        "title": "Нежные пионы",
+        "subtitle": "наклейка на стену",
+        "price": "90Br",
+        "productImage": "НежныеПионы"
+    },
+    {
+        "id": 10,
+        "type": "WorldMap",
+        "title": "Карта мира на русском языке",
+        "subtitle": "наклейка на стену",
+        "price": "85Br",
+        "productImage": "КартаМираРус"
+    },
+    {
+        "id": 11,
+        "type": "WorldMap",
+        "title": "Карта мира на английском языке",
+        "subtitle": "наклейка на стену",
+        "price": "85Br",
+        "productImage": "КартаМираАнгл"
+    },
+    {
+        "id": 12,
+        "type": "Lettering",
+        "title": "Bon Appetit",
+        "subtitle": "надпись на стену",
+        "price": "30Br",
+        "productImage": "BonAppetit"
+    },
+    {
+        "id": 13,
+        "type": "Lettering",
+        "title": "Мечтай",
+        "subtitle": "надпись на стену",
+        "price": "50Br",
+        "productImage": "Мечтай"
+    },
+    {
+        "id": 14,
+        "type": "Flowers",
+        "title": "Подсолнухи",
+        "subtitle": "наклейка на стену",
+        "price": "50Br",
+        "productImage": "Подсолнухи"
+    },
+    {
+        "id": 15,
+        "type": "Flowers",
+        "title": "Ромашки",
+        "subtitle": "наклейка на стену",
+        "price": "55Br",
+        "productImage": "Ромашки"
+    }
+]
+
