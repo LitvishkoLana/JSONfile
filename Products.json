@@ -1,14 +1,15 @@
 [
     {
         "id": 1,
+        "type":{"ChildrenRoom":"Детская"},
         "title": "Забавные зверята",
-        "type":{"ChildrenRoom":"Детская"}
         "subtitle": "наклейка на стену",
         "price": "35Br",
         "productImage": "ЗабавныеЗверята"
     },
     {
         "id": 2,
+        "type":{"ChildrenRoom":"Детская"},
         "title": "Калейдоскоп",
         "subtitle": "наклейка на стену",
         "price": "30Br",
@@ -17,6 +18,7 @@
     {
         "id": 3,
         "title": "Among Us",
+        "type":{"ChildrenRoom":"Детская"},
         "subtitle": "наклейка на стену",
         "price": "50Br",
         "productImage": "AmongUs"
