@@ -9,7 +9,7 @@
     },
     {
         "id": 2,
-        "type":"Детская",
+        "productType":"ChildrenRoom",
         "title": "Калейдоскоп",
         "subtitle": "наклейка на стену",
         "price": "30Br",
@@ -17,7 +17,7 @@
     },
     {
         "id": 3,
-        "type":"ChildrenRoom",
+        "productType":"ChildrenRoom",
         "title": "Among Us",
         "subtitle": "наклейка на стену",
         "price": "50Br",
