@@ -4,7 +4,7 @@
         "type":"ChildrenRoom",
         "title": "Забавные зверята",
         "subtitle": "наклейка на стену",
-        "description": "Виниловые наклейки — быстрый и бюджетный способ обновить интерьер без строительной пыли, краски, шума и прочих радостей ремонта. С помощью наклеек можно создать уникальный дизайн.",
+        "description": "Виниловые наклейки.",
         "price": "35Br",
         "productImage": "ЗабавныеЗверята",
         "quantity": 1
@@ -14,6 +14,7 @@
         "type":"ChildrenRoom",
         "title": "Калейдоскоп",
         "subtitle": "наклейка на стену",
+        "description": "Виниловые наклейки.",
         "price": "30Br",
         "productImage": "Калейдоскоп"
     },
@@ -22,6 +23,7 @@
         "type":"ChildrenRoom",
         "title": "Among Us",
         "subtitle": "наклейка на стену",
+        "description": "Виниловые наклейки.",
         "price": "50Br",
         "productImage": "AmongUs"
     },
@@ -30,6 +32,7 @@
         "type":"ChildrenRoom",
         "title": "Облака",
         "subtitle": "наклейка на стену",
+        "description": "Виниловые наклейки.",
         "price": "40Br",
         "productImage": "Облака"
     },
@@ -38,6 +41,7 @@
         "type":"ChildrenRoom",
         "title": "Акварельные кружочки",
         "subtitle": "наклейка на стену",
+        "description": "Виниловые наклейки.",
         "price": "25Br",
         "productImage": "АкварельныеКружочки"
     },
@@ -46,6 +50,7 @@
         "type":"ChildrenRoom",
         "title": "Сердечки",
         "subtitle": "наклейка на стену",
+        "description": "Виниловые наклейки.",
         "price": "30Br",
         "productImage": "Сердечки"
     },
@@ -54,6 +59,7 @@
         "type":"ChildrenRoom",
         "title": "Ромашки",
         "subtitle": "наклейка на стену",
+        "description": "Виниловые наклейки.",
         "price": "55Br",
         "productImage": "Ромашки"
     },
@@ -62,6 +68,7 @@
         "type":"ChildrenRoom",
         "title": "Тюльпаны",
         "subtitle": "наклейка на стену",
+        "description": "Виниловые наклейки.",
         "price": "40Br",
         "productImage": "Тюльпаны"
     },
@@ -70,6 +77,7 @@
         "type":"ChildrenRoom",
         "title": "Нежные пионы",
         "subtitle": "наклейка на стену",
+        "description": "Виниловые наклейки.",
         "price": "90Br",
         "productImage": "НежныеПионы"
     },
@@ -78,6 +86,7 @@
         "type":"ChildrenRoom",
         "title": "Карта мира на русском языке",
         "subtitle": "наклейка на стену",
+        "description": "Виниловые наклейки.",
         "price": "85Br",
         "productImage": "КартаМираРус"
     },
@@ -86,6 +95,7 @@
         "type":"ChildrenRoom",
         "title": "Карта мира на английском языке",
         "subtitle": "наклейка на стену",
+        "description": "Виниловые наклейки.",
         "price": "85Br",
         "productImage": "КартаМираАнгл"
     },
@@ -94,6 +104,7 @@
         "type":"ChildrenRoom",
         "title": "Bon Appetit",
         "subtitle": "надпись на стену",
+        "description": "Виниловые наклейки.",
         "price": "30Br",
         "productImage": "BonAppetit"
     },
@@ -102,6 +113,7 @@
         "type":"ChildrenRoom",
         "title": "Мечтай",
         "subtitle": "надпись на стену",
+        "description": "Виниловые наклейки.",
         "price": "50Br",
         "productImage": "Мечтай"
     },
@@ -110,6 +122,7 @@
         "type":"ChildrenRoom",
         "title": "Подсолнухи",
         "subtitle": "наклейка на стену",
+        "description": "Виниловые наклейки.",
         "price": "50Br",
         "productImage": "Подсолнухи"
     },
@@ -118,6 +131,7 @@
         "type":"ChildrenRoom",
         "title": "Ромашки",
         "subtitle": "наклейка на стену",
+        "description": "Виниловые наклейки.",
         "price": "55Br",
         "productImage": "Ромашки"
     }
