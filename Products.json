@@ -2,6 +2,7 @@
     {
         "id": 1,
         "title": "Забавные зверята",
+        "type":{"ChildrenRoom":"Детская"}
         "subtitle": "наклейка на стену",
         "price": "35Br",
         "productImage": "ЗабавныеЗверята"
