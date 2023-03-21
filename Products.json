@@ -96,7 +96,8 @@
         "subtitle": "наклейка на стену",
         "description": "Виниловые наклейки.",
         "price": "85Br",
-        "productImage": "КартаМираРус"
+        "productImage": "КартаМираРус",
+        "quantity": 1
     },
     {
         "id": 11,
@@ -105,7 +106,8 @@
         "subtitle": "наклейка на стену",
         "description": "Виниловые наклейки.",
         "price": "85Br",
-        "productImage": "КартаМираАнгл"
+        "productImage": "КартаМираАнгл",
+        "quantity": 1
     },
     {
         "id": 12,
