@@ -11,7 +11,7 @@
     },
     {
         "id": 2,
-        "type":"ChildrenRoom",
+        "type":"ДЕТСКАЯ",
         "title": "Калейдоскоп",
         "subtitle": "наклейка на стену",
         "description": "Виниловые наклейки.",
@@ -21,7 +21,7 @@
     },
     {
         "id": 3,
-        "type":"ChildrenRoom",
+        "type":"ДЕТСКАЯ",
         "title": "Among Us",
         "subtitle": "наклейка на стену",
         "description": "Виниловые наклейки.",
@@ -31,7 +31,7 @@
     },
     {
         "id": 4,
-        "type":"ChildrenRoom",
+        "type":"СТИКЕРЫ",
         "title": "Облака",
         "subtitle": "наклейка на стену",
         "description": "Виниловые наклейки.",
@@ -41,7 +41,7 @@
     },
     {
         "id": 5,
-        "type":"ChildrenRoom",
+        "type":"СТИКЕРЫ",
         "title": "Акварельные кружочки",
         "subtitle": "наклейка на стену",
         "description": "Виниловые наклейки.",
@@ -51,7 +51,7 @@
     },
     {
         "id": 6,
-        "type":"ChildrenRoom",
+        "type":"СТИКЕРЫ",
         "title": "Сердечки",
         "subtitle": "наклейка на стену",
         "description": "Виниловые наклейки.",
@@ -61,7 +61,7 @@
     },
     {
         "id": 7,
-        "type":"ChildrenRoom",
+        "type":"ЦВЕТЫ",
         "title": "Ромашки",
         "subtitle": "наклейка на стену",
         "description": "Виниловые наклейки.",
@@ -71,7 +71,7 @@
     },
     {
         "id": 8,
-        "type":"ChildrenRoom",
+        "type":"ЦВЕТЫ",
         "title": "Тюльпаны",
         "subtitle": "наклейка на стену",
         "description": "Виниловые наклейки.",
@@ -81,7 +81,7 @@
     },
     {
         "id": 9,
-        "type":"ChildrenRoom",
+        "type":"ЦВЕТЫ",
         "title": "Нежные пионы",
         "subtitle": "наклейка на стену",
         "description": "Виниловые наклейки.",
@@ -91,7 +91,7 @@
     },
     {
         "id": 10,
-        "type":"ChildrenRoom",
+        "type":"КАРТА МИРА",
         "title": "Карта мира на русском языке",
         "subtitle": "наклейка на стену",
         "description": "Виниловые наклейки.",
@@ -101,7 +101,7 @@
     },
     {
         "id": 11,
-        "type":"ChildrenRoom",
+        "type":"КАРТА МИРА",
         "title": "Карта мира на английском языке",
         "subtitle": "наклейка на стену",
         "description": "Виниловые наклейки.",
@@ -111,7 +111,7 @@
     },
     {
         "id": 12,
-        "type":"ChildrenRoom",
+        "type":"НАДПИСИ",
         "title": "Bon Appetit",
         "subtitle": "надпись на стену",
         "description": "Виниловые наклейки.",
@@ -121,7 +121,7 @@
     },
     {
         "id": 13,
-        "type":"ChildrenRoom",
+        "type":"НАДПИСИ",
         "title": "Мечтай",
         "subtitle": "надпись на стену",
         "description": "Виниловые наклейки.",
@@ -131,7 +131,7 @@
     },
     {
         "id": 14,
-        "type":"ChildrenRoom",
+        "type":"ЦВЕТЫ",
         "title": "Подсолнухи",
         "subtitle": "наклейка на стену",
         "description": "Виниловые наклейки.",
@@ -141,12 +141,12 @@
     },
     {
         "id": 15,
-        "type":"ChildrenRoom",
-        "title": "Ромашки",
-        "subtitle": "наклейка на стену",
+        "type":"НАДПИСИ",
+        "title": "Жизнь заново",
+        "subtitle": "надпись на стену",
         "description": "Виниловые наклейки.",
-        "price": "55Br",
-        "productImage": "Ромашки",
+        "price": "40Br",
+        "productImage": "ЖизньЗаново",
         "quantity": 1
     }
 ]
